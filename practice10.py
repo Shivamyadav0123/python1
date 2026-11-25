@@ -1,8 +1,8 @@
-a=[2,3]
-for i in a:
-    print("Table",i)
-    for s in range(1,11):
-        print(i,"*",s,"=",i*s)
+# a=[2,3]
+# for i in a:
+#     print("Table",i)
+#     for s in range(1,11):
+#         print(i,"*",s,"=",i*s)
 
 a=int(input("Enter a number"))
 fact=1
